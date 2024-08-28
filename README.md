@@ -2,6 +2,7 @@ Implementation of the problems solved in the [Leetcode in python 50 Algorithms C
 ) course on udemy, as well as the implementation of the algorithms and data structures explained in the course
 
 Questions:
+```
 https://leetcode.com/problems/container-with-most-water/description/
 https://leetcode.com/problems/valid-mountain-array/description/
 https://leetcode.com/problems/boats-to-save-people/description/
@@ -52,6 +53,7 @@ https://leetcode.com/problems/coin-change/description/
 https://leetcode.com/problems/unique-paths/description/
 https://leetcode.com/problems/longest-palindromic-substring/description/
 https://leetcode.com/problems/trapping-rain-water/description/
+```
 
 
 
