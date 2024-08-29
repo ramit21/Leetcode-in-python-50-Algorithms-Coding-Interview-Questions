@@ -55,6 +55,53 @@ https://leetcode.com/problems/longest-palindromic-substring/description/
 https://leetcode.com/problems/trapping-rain-water/description/
 ```
 
+Additional questions:
+```
+https://leetcode.com/problems/max-number-of-k-sum-pairs/description/
+https://www.geeksforgeeks.org/find-the-first-repeated-character-in-a-string/
+Remove duplicates from a sorted/unosrted array. Write a function that returns a new array without dauplicates.
+https://www.geeksforgeeks.org/find-duplicates-in-on-time-and-constant-extra-space/
+https://www.geeksforgeeks.org/largest-sum-contiguous-subarray/
+https://leetcode.com/problems/invert-binary-tree/description/
+https://leetcode.com/problems/longest-substring-without-repeating-characters/description/
+https://leetcode.com/problems/reverse-linked-list/description/
+https://leetcode.com/problems/find-peak-element/description/
+https://leetcode.com/problems/palindrome-linked-list/description/
+https://leetcode.com/problems/longest-palindrome/description/
+https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/
+https://www.geeksforgeeks.org/level-order-tree-traversal/
+https://leetcode.com/problems/sort-list/description/
+https://leetcode.com/problems/validate-binary-search-tree/description/
+https://leetcode.com/problems/minimum-falling-path-sum/description/
+https://www.geeksforgeeks.org/a-product-array-puzzle/
+https://www.geeksforgeeks.org/minimum-number-of-jumps-to-reach-end-of-a-given-array/
+https://www.geeksforgeeks.org/print-subsequences-string/
+https://leetcode.com/problems/valid-parentheses/description/
+https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/
+https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/
+https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/
+https://leetcode.com/problems/add-two-numbers-ii/description/
+https://leetcode.com/problems/climbing-stairs/description/
+https://leetcode.com/problems/subarray-sum-equals-k/description/
+https://leetcode.com/problems/decode-ways/description/
+https://leetcode.com/problems/delete-node-in-a-bst/description/
+https://leetcode.com/problems/permutations/description/
+https://leetcode.com/problems/longest-common-subsequence/description/
+https://leetcode.com/problems/longest-consecutive-sequence/description/
+https://medium.com/@greekykhs/leetcode-edit-distance-2bb38c3b56b2
+https://leetcode.com/problems/count-sorted-vowel-strings/description/
+https://leetcode.com/problems/remove-k-digits/description/
+https://leetcode.com/problems/merge-intervals/description/
+https://leetcode.com/problems/insert-interval/description/
+https://leetcode.com/problems/binary-tree-maximum-path-sum/description/
+https://leetcode.com/discuss/study-guide/1152328/01-Knapsack-Problem-and-Dynamic-Programming
+https://leetcode.com/problems/shortest-palindrome/description/
+https://www.geeksforgeeks.org/coin-change-dp-7/
+https://leetcode.com/problems/word-search/description/
+https://leetcode.com/problems/n-queens/description/
+https://leetcode.com/problems/word-ladder/description/
+https://leetcode.com/problems/longest-increasing-subsequence/description/
+```
 
 
 
